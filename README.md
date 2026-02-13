@@ -2,7 +2,7 @@
 Sophomore Data Science at UIT
 
 ## 🌐 Socials:
-<div align="center">
+<div align>
   <a href="https://www.facebook.com/nguyenan1401fms" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" height="48" alt="Facebook App Icon"/>
   </a>
@@ -18,7 +18,7 @@ Sophomore Data Science at UIT
 </div>
 
 ## 💻 Tech Stack:
-<div align="center">
+<div align>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
