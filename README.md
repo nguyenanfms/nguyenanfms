@@ -1,4 +1,3 @@
-# 💫 About Me:
 Sophomore Data Science at UIT
 
 ## 🌐 Socials:
